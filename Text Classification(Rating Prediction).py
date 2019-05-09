@@ -120,7 +120,7 @@ def vect(text_list):
     #print(term)
     return X
     
-  complete_dataset = hm_dataset['rvw_text']+aut_dataset['rvw_text']
+complete_dataset = hm_dataset['rvw_text']+aut_dataset['rvw_text']
 #print(len(complete_dataset)) #2905
 #print(complete_dataset[1450]) #First review of Automotive. Reviews are in Order
 
